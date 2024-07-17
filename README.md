@@ -39,11 +39,11 @@
 ## 📊 Github Stats
 
 <!--github readme stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/om3ga6400/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/om3ga6400/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs/?username=OM3GA6400&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px" />
 </a>
 
 <!--
