@@ -49,6 +49,12 @@
 </a>
 </div>
 
+<!--programming quote title-->
+## 📜 Programming Quote
+
+<!--programming quote-->
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200">
+
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
