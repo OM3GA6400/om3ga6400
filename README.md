@@ -35,6 +35,15 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8"></div>
 
+<!--github stats title-->
+## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
+
+<!--github readme stats-->
+  <br/>
+    <a href="https://github.com/OM3GA6400/github-readme-stats"><img alt="failed to load resource" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=OM3GA6400&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/></a>
+  <a href="https://github.com/OM3GA6400/github-readme-stats"><img alt="failed to load resource" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs/?username=OM3GA6400&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
+  <br/>
+
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
