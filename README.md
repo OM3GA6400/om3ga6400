@@ -8,6 +8,10 @@
   Cool 9th grader
 </h3>
 
+<!--badges-->
+<p align="center">
+<img src="https://img.shields.io/github/stars/OM3GA6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square">
+</p>
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
