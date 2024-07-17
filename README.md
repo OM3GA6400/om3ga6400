@@ -60,6 +60,11 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200">
 </div>
 
+<!--activity graph title-->
+## 📈 Activity Graph
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img scr="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true">
+
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
