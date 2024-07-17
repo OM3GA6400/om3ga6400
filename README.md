@@ -1,4 +1,6 @@
-## Hi there 👋
+<!--introduction-->
+<h1 align="center">
+Hi, I'm OMEGA
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
