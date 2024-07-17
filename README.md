@@ -4,9 +4,9 @@
 </h1>
 
 <!--tagline-->
-<h3 align="center">
+<h2 align="center">
   Cool 9th grader
-</h3>
+</h2>
 
 <!--badges-->
 <p align="center">
