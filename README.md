@@ -34,7 +34,9 @@
 
 <!--github profile trophy-->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8"></div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
+  </div>
 
 <!--github stats title-->
 ## 📊 Github Stats
@@ -54,7 +56,8 @@
 
 <!--programming quote-->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200">
 </div>
 
 <!--
