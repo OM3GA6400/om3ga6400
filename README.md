@@ -25,6 +25,8 @@
 <!--github readme streak stats-->
 <div align="center">
 
+<img scr="https://streak-stats.demolab.com/?user=DenverCoder1">
+
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
