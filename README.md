@@ -62,6 +62,8 @@
 
 <!--activity graph title-->
 ## 📈 Activity Graph
+
+<!--activity graph-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true">
 
