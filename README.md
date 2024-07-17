@@ -26,6 +26,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=om3ga6400&theme=github-dark-blue&hide_border=true">
 
+<!--awards title-->
+## 🏆 Awards
+
+<!--github profile trophy-->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
+
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
