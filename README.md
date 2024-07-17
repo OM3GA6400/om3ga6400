@@ -68,7 +68,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true">
 
 <!--bye-->
-<h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
+<h1 align='center'>⚡️<I> ## Goodbye!
+</i>⚡️</h1>
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
