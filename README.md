@@ -1,6 +1,13 @@
 <!--introduction-->
 <h1 align="center">
-Hi, I'm OMEGA
+  Hi, I'm OMEGA
+</h1>
+
+<!--tagline-->
+<h3 align="center">
+  Cool 9th grader
+</h3>
+
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
