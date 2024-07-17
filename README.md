@@ -26,7 +26,7 @@
 ## ️‍🔥 Streak Stats
 
 <!--github readme streak stats-->
-<div align="center">
+<div align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com?user=om3ga6400&theme=github-dark-blue&hide_border=true"></div>
 
 <!--awards title-->
