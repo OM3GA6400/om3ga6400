@@ -19,16 +19,20 @@
 </p>
 
 <!--typing-->
+<div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4750&pause=750&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+om3ga!%F0%9F%91%8B;I+mainly+use+Javascript%2C+Html+and+Css.%F0%9F%92%BB;I+am+completely+self-taught.%F0%9F%93%96;I've+been+coding+for+4+years!%E2%8F%B0;Thanks+for+visiting!%F0%9F%98%8A" alt="Typing SVG" />
 </a>
+</div>
 
 <!--streak stats title-->
 ## ️‍🔥 Streak Stats
 
 <!--github readme streak stats-->
-<div align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=om3ga6400&theme=github-dark-blue&hide_border=true"></div>
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=om3ga6400&theme=github-dark-blue&hide_border=true">
+  </div>
 
 <!--awards title-->
 ## 🏆 Awards
