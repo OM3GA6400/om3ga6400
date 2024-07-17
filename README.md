@@ -68,7 +68,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true">
 
 <!--bye-->
-<h1 align='center'>⚡️<I> ## Goodbye!
+<h1 align='center'>⚡️<I>
+## Goodbye!
 </i>⚡️</h1>
 
 <!--
