@@ -10,7 +10,10 @@
 
 <!--badges-->
 <p align="center">
-<img src="https://img.shields.io/github/stars/OM3GA6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square">
+  <img src="https://img.shields.io/github/stars/OM3GA6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square">
+  <img src="https://komarev.com/ghpvc/?username=OM3GA6400">
+  <img src="https://img.shields.io/github/commit-activity/m/OM3GA6400/OM3GA6400">
+  <img src="https://img.shields.io/github/followers/OM3GA6400?color=4C1&logo=github&style=fflat-square">
 </p>
 
 <!--
