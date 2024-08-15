@@ -26,7 +26,7 @@
 </div>
 
 <!--streak stats title-->
-## <img src="assets/img/fire.gif"> Streak Stats
+## <img src="assets/fire.gif"> Streak Stats
 
 <!--github readme streak stats-->
 <div align="center">
