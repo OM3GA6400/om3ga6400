@@ -62,7 +62,7 @@
 <!--programming quote-->
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" height="200">
 </div>
 
 <!--activity graph title-->
@@ -70,7 +70,7 @@
 
 <!--activity graph-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true&boarder=false">
 
 <!--
 **OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
