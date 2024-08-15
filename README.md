@@ -62,7 +62,7 @@
 <!--programming quote-->
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github&boarder=false" height="200">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github?border=true" height="200">
 </div>
 
 <!--activity graph title-->
