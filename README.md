@@ -26,7 +26,7 @@
 </div>
 
 <!--streak stats title-->
-## ️‍🔥 Streak Stats
+## <img src="assets/img/fire.gif"> Streak Stats
 
 <!--github readme streak stats-->
 <div align="center">
