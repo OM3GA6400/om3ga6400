@@ -10,9 +10,9 @@
 
 <!--badges-->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=om3ga6400">
   <img src="https://img.shields.io/github/stars/om3ga6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square">
   <img src="https://img.shields.io/github/followers/om3ga6400?color=4C1&logo=github&style=fflat-square">
-  <img src="https://komarev.com/ghpvc/?username=om3ga6400">
   <img src="https://img.shields.io/github/commit-activity/m/om3ga6400/om3ga6400">
   <img src="https://img.shields.io/github/last-commit/om3ga6400/om3ga6400?label=Profile%20update&style=fflat-square">
   <img src="https://dcbadge.vercel.app/api/shield/1232072032590758069?style=flat">
