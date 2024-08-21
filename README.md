@@ -25,7 +25,7 @@
   </a>
 </div>
 
-<!--streak stats title-->
+<!--github readme streak stats title-->
 ## <img src="assets/fire.gif" width="30" height="30"> Streak Stats
 
 <!--github readme streak stats-->
@@ -34,7 +34,7 @@
     <img src="https://streak-stats.demolab.com?user=om3ga6400&theme=github-dark-blue&hide_border=true">
   </div>
 
-<!--awards title-->
+<!--github profile trophy title-->
 ## 🏆 Awards
 
 <!--github profile trophy-->
@@ -43,7 +43,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
   </div>
 
-<!--github stats title-->
+<!--github readme stats title-->
 ## 📊 Github Stats
 
 <!--github readme stats-->
