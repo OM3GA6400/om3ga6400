@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/followers/om3ga6400?color=4C1&logo=github&style=fflat-square">
   <img src="https://img.shields.io/github/last-commit/om3ga6400/om3ga6400?label=Profile%20update&style=fflat-square">
   <img src="https://img.shields.io/github/commit-activity/m/om3ga6400/om3ga6400">
-  <img src="https://dcbadge.vercel.app/api/shield/1232072032590758069?style=flat">
+  <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=flat">
 </p>
 
 <!--typing-->
