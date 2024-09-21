@@ -1,12 +1,5 @@
-<!--introduction-->
-<h1 align="center">
-  Hi, I'm OMEGA
-</h1>
-
-<!--tagline-->
-<h3 align="center">
-  Cool 9th grader
-</h3>
+<!--css-->
+<link rel="stylesheet" href="style.css">
 
 <!--badges-->
 <p align="center">
@@ -18,6 +11,10 @@
   <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=flat">
 </p>
 
+<!--introduction-->
+<h1 align="center">Hi, I'm OMEGA</h1>
+<h3 align="center">Cool 9th grader</h3>
+
 <!--typing-->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -26,6 +23,7 @@
 </div>
 
 <!--github readme streak stats title-->
+
 ## <img src="assets/fire.gif" width="30" height="30"> Streak Stats
 
 <!--github readme streak stats-->
@@ -35,6 +33,7 @@
   </div>
 
 <!--github profile trophy title-->
+
 ## 🏆 Awards
 
 <!--github profile trophy-->
@@ -44,6 +43,7 @@
   </div>
 
 <!--github readme stats title-->
+
 ## 📊 Github Stats
 
 <!--github readme stats-->
@@ -57,6 +57,7 @@
 </div>
 
 <!--programming quote title-->
+
 ## 📜 Programming Quote
 
 <!--programming quote-->
@@ -66,6 +67,7 @@
 </div>
 
 <!--activity graph title-->
+
 ## 📈 Activity Graph
 
 <!--activity graph-->
