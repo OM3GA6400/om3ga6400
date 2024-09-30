@@ -3,11 +3,6 @@
   Hi, I'm OMEGA
 </h1>
 
-<!--tagline-->
-<h3 align="center">
-  Cool 9th grader
-</h3>
-
 <!--badges-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=om3ga6400">
