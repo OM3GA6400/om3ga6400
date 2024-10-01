@@ -1,6 +1,6 @@
 <!--introduction-->
 <h1 align="center">
-  Hi, I'm OMEGA
+  Hi, I'm om3ga
 </h1>
 
 <!--badges-->
