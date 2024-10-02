@@ -33,21 +33,12 @@
 
 ## 📊 Github Stats
 
-<div align="center">
-  <a href="https://github.com/om3ga6400/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark">
-  </a>
-  <a href="https://github.com/om3ga6400/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs/?username=OM3GA6400&langs_count=10&layout=compact&theme=github_dark&hide_border=true&card_width=320">
-  </a>
-</div>
-
 <div align=center>
   <a href="https://github.com/om3ga6400/github-readme-stats">
-    <img height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=om3ga6400&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true">
+    <img height=200 width=400 src="https://github-readme-stats.vercel.app/api?username=om3ga6400&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true">
   </a>
   <a href="https://github.com/om3ga6400/github-readme-stats">
-    <img height=200 width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=om3ga6400&layout=compact&theme=github_dark&hide_border=true">
+    <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=om3ga6400&layout=compact&theme=github_dark&hide_border=true">
   </a>
 </div>
 
