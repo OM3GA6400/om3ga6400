@@ -42,12 +42,14 @@
   </a>
 </div>
 
-<a href="https://github.com/om3ga6400/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=anuraghazra&theme=github_dark&hide_border=true">
-</a>
-<a href="https://github.com/om3ga6400/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true">
-</a>
+<div align="center">
+  <a href="https://github.com/om3ga6400/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=anuraghazra&theme=github_dark&hide_border=true">
+  </a>
+  <a href="https://github.com/om3ga6400/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true">
+  </a>
+</div>
 
 ## 📜 Programming Quote
 
