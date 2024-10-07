@@ -47,7 +47,7 @@
     <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true">
   </a>
   <a href="https://github.com/om3ga6400/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&layout=compact&langs_count=8&card_width=315&theme=github_dark&hide_border=true">
+    <img height=200 width=320 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&layout=compact&langs_count=8&theme=github_dark&hide_border=true">
   </a>
 </div>
 
