@@ -11,9 +11,6 @@
   <a href="https://github.com/om3ga6400/om3ga6400/blob/main/LICENCE">
     <img src="https://img.shields.io/github/license/om3ga6400/om3ga6400">
   </a>
-  <a href="https://github.com/prettier/prettier/">
-    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=fflat-square">
-  </a>
 </h3>
 
 <h3 align="center">
